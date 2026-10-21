@@ -1,0 +1,5 @@
+{
+  "name": "Remix:Secure video encryption tool using Morse code keys and AES-GCM cryptography.",
+  "description": "Secure video encryption tool using Morse code keys and AES-GCM cryptography.",
+  "requestFramePermissions": []
+}
